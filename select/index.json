@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "道",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-02T04:57:29.311455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_道_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_道_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/03_道_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Michi [道]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Michi_[道]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "길 (道) -Japanese ver.-",
+      "artist": "B1A4",
+      "has_synced": true,
+      "path": "select/05_길_(道)_-Japanese_ver.-_B1A4.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "道(タオ)",
+      "artist": "Ichiro Mizuki",
+      "has_synced": false,
+      "path": "select/06_道(タオ)_Ichiro_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "道（タオ）",
+      "artist": "水木一郎",
+      "has_synced": false,
+      "path": "select/07_道(タオ)_水木一郎.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/08_道_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "森高千里",
+      "has_synced": false,
+      "path": "select/09_道_森高千里.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "Moritaka, Chisato",
+      "has_synced": false,
+      "path": "select/10_道_Moritaka,_Chisato.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "道",
+      "artist": "Taichi Mukai",
+      "has_synced": true,
+      "path": "select/11_道_Taichi_Mukai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "道 - Michi",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/12_道_-_Michi_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "道 - Michi",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/13_道_-_Michi_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "道 (Instrumental) - Michi (Instrumental)",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/14_道_(Instrumental)_-_Michi_(Instrumental)_EXILE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "道",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_道_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "道",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_道_宇多田_ヒカル.txt"
+    }
+  ]
+}
